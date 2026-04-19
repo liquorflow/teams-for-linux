@@ -1,0 +1,1 @@
+fix: resolve audio/video device selection not persisting after restart
