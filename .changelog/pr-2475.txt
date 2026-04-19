@@ -1,0 +1,1 @@
+fix: resolve screen sharing issue on Wayland compositors
