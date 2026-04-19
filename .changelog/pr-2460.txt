@@ -1,0 +1,1 @@
+fix: resolve audio/video issues on newer Electron versions
